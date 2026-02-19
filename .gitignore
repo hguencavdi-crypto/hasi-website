@@ -1,0 +1,4 @@
+node_modules/
+*.mjs
+*.timestamp*
+.DS_Store
